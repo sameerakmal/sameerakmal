@@ -1,10 +1,5 @@
+
 <h2 align="left">Hello world! My name is Sameer and I am a 2nd-year student at IIT Guwahati, passionate about learning and building efficient solutions in the world of software development. My areas of focus include:<br><br>🌐 Web Development<br>💻 Programming in Java, Python, C++, and C<br>📚 Exploring Data Structures and Algorithms (DSA)<br>I am continuously working on improving my skills and contributing to projects that challenge me to grow as a developer. Feel free to explore my repositories and connect with me! 🚀</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
 
 ###
 
@@ -12,16 +7,6 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sameerkakmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameerkakmal" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sameerakmal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sameerakmal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sameerakmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sameerakmal" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sameerakmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sameerakmal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sameerakmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sameerakmal" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sameerakmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sameerakmal" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -48,9 +33,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
 </div>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sameerkakmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameerkakmal" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sameerakmal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sameerakmal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sameerakmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sameerakmal" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sameerakmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sameerakmal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sameerakmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sameerakmal" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sameerakmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sameerakmal" height="30" width="40" /></a>
+</p>
+
 ###
 
-<div align="left">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sameerakmal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sameerakmal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/sameerakmal/sameerakmal/output/snake.svg" alt="Snake animation" />
+
+###
+###
+
+
